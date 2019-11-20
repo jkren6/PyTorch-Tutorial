@@ -7,6 +7,9 @@ Dependencies:
 torch: 0.4
 gym: 0.8.1
 numpy
+
+Revise by JK from 2019.11.20
+
 """
 import torch
 import torch.nn as nn
